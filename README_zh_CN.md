@@ -1,5 +1,6 @@
 # sm64pc-coop-plus
 [English](https://github.com/artemius466/sm64ex-coop-plus/) | [Português](https://github.com/artemius466/sm64ex-coop-plus/blob/coop/README_pt_BR.md) | [Español](https://github.com/artemius466/sm64ex-coop-plus/blob/coop/README_es_ES.md)
+
 使用翻譯器翻譯
 
 [djoslin0/sm64ex-coop](https://github.com/djoslin0/sm64ex-coop) 的分支，具有附加功能。
