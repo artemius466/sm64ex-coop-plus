@@ -14,6 +14,8 @@ Run `./extract_assets.py --clean && make clean` or `make distclean` to remove RO
 ## Goal
 Create **amazing** fork of [djoslin0/sm64ex-coop](https://github.com/djoslin0/sm64ex-coop) with additional features, bug fixes, etc.
 
+..and create raspberry pi support..
+
 ## Lua
 sm64ex-coop-plus is moddable via Lua, similar to Roblox and Garry's Mod's Lua APIs. To get started, click [here](docs/lua/lua.md) to see the Lua documentation.
 
