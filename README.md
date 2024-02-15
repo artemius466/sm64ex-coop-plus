@@ -1,5 +1,5 @@
 # sm64ex-coop-plus
-[中文](https://github.com/artemius466/sm64ex-coop-plus/blob/coop/README_zh_CN.md) | [Português](https://github.com/artemius466/sm64ex-coop-plus/blob/coop/README_pt_BR.md) | [Español](https://github.com/artemius466/sm64ex-coop-plus/blob/coop/README_es_ES.md)
+[Русский](https://github.com/artemius466/sm64ex-coop-plus/blob/coop/README_ru_RU.md) [中文](https://github.com/artemius466/sm64ex-coop-plus/blob/coop/README_zh_CN.md) | [Português](https://github.com/artemius466/sm64ex-coop-plus/blob/coop/README_pt_BR.md) | [Español](https://github.com/artemius466/sm64ex-coop-plus/blob/coop/README_es_ES.md)
 
 Fork of [djoslin0/sm64ex-coop](https://github.com/djoslin0/sm64ex-coop) with additional features.
 
