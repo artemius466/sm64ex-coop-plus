@@ -5,6 +5,7 @@
 # ToDo: Test on more Pi models with fresh Raspbian and allow existing src folders to be updated.
 #
 clear
+echo "!!! THIS SCRIPT CURRENTLY IS NOT SUPPORTED WITH SM64EX COOP PLUS !!!"
 echo "This script will assist with compiling Super Mario 64 on Raspbian 10"
 echo "Note that accelerated OpenGL (vc4_drm) is required for maximum performance"
 echo "Checking Raspberry Pi model..."
