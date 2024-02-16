@@ -18,5 +18,3 @@ Create **amazing** fork of [djoslin0/sm64ex-coop](https://github.com/djoslin0/sm
 
 ## Lua
 sm64ex-coop-plus is moddable via Lua, similar to Roblox and Garry's Mod's Lua APIs. To get started, click [here](docs/lua/lua.md) to see the Lua documentation.
-
-# This project was NOT created out of spite djoslin0
