@@ -16,5 +16,3 @@
 
 ## Lua
 sm64ex-coop-plus 可透過 Lua 修改，類似於 Roblox 和 Garry's Mod 的 Lua API。要開始使用，請按[此處](docs/lua/lua.md) 查看 Lua 文件。
-
-# 這個專案不是出於惡意 djoslin0 創建的
